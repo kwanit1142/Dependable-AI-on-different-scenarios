@@ -1,4 +1,4 @@
-# Dependable-AI-on-different-scenarios
+# Dependable AI on different scenarios
 
 These Notebooks with their Question Statement and Reports, came under the course CSL7370, taken by Prof. Mayank Vatsa and Prof. Richa Singh.
 
